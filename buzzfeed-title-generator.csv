@@ -1,0 +1,127 @@
+type,string
+people,Grad Students
+people,Post-Docs
+people,Instructors
+people,Professors
+people,Tenured Professors
+people,Scientists
+people,Engineers
+people,Programmers
+people,Staff Scientists
+people,Bench Biologists
+people,Bioinformaticians
+people,Statisticians
+people,Undergrads
+people,Interns
+people,Teaching Assistants
+people,Mentors
+people,Mentees
+people,Code Monkies
+adjest,Best
+adjest,Coolest
+adjest,Cutest
+adjest,Creepiest
+adjest,Worst
+adjest,Greatest
+adjest,Cheesiest
+adjest,Funniest
+adjest,Smartest
+adjest,Nerdiest
+adjest,Biggest
+adjest,Slowest
+adjest,Most Delicate
+adjest,Most Picturesque
+adjest,Most Arrogant
+adjest,Most Confusing
+adjest,Most Beautiful
+adjest,Most Courageous
+adjest,Most Successful
+adjset,Most Tasteless
+adjest,Most Nobel-Worthy
+adjest,Most Inspirational
+adjest,Most Important
+adjest,Most Awkward
+adjest,Most Disturbing
+adjest,Most Popular
+adjest,Most Beloved
+adjest,Most Wanted
+adjest,Most Adorable
+adjest,Most Unbelievably Flawless And Life-Changing
+time,All Time
+time,Your Childhood
+time,Since 2001
+time,The Last 10 Years
+time,The '80s
+time,Last Summer
+time,This Holday Season
+time,The '90s
+time,This Year
+time,This Century
+time,The Post-Y2K Era
+noun,Pipettes
+noun,Computers
+noun,Servers
+noun,Operating Systems
+noun,Charts
+noun,P-values
+noun,Facts
+noun,Western Blots
+noun,Sequencers
+noun,Books
+noun,Labcoats
+noun,R Packages
+noun,Regex Commands
+noun,bioRxiv Pre-Prints
+noun,Cell Papers
+noun,Nature Papers
+noun,Figures
+noun,Lab Meeting Presentations
+noun,Jargon
+noun,Algorithms
+noun,Manuscript Drafts
+noun,Figure Legends
+noun,Things
+noun,Truths
+prep,In The World
+prep,In America
+prep,From Nature Methods
+prep,From Cancer Cell
+prep,From bioRxiv
+prep,In Class
+prep,In Lab Meeting
+prep,In Lab
+prep,In School
+prep,In Class
+prep,From Your PI
+prep,From Your Dissertation Advisory Committee
+noun_desc,Grad Students Loved
+noun_desc,Are Way More Important Than Work Right Now
+noun_desc,Every Grad Student Needs
+noun_desc,Look Like Your PI
+noun_desc,Never Stop Being Awkward
+noun_desc,Only Tenured Professors Know
+noun_desc,Prove Cats Have Hearts Of Gold
+noun_desc,Prove Pugs Always Win At Halloween
+noun_desc,Prove The World Isn't Such A Bad Place
+noun_desc,Prove You And Your Mother Are The Same Person
+noun_desc,Scream World Domination
+noun_desc,Should Be Illegal
+noun_desc,Should Exist But Don't
+noun_desc,Will Win You The Nobel Prize
+noun_desc,Will Help You Get Through The Week
+noun_desc,Will Make You Feel Filthy
+noun_desc,Will Make You Laugh Every Time
+noun_desc,Will Make You Want To Fall In Love
+noun_desc,Will Make Your Skin Crawl
+noun_desc,Will Restore Your Faith In The Internet
+noun_desc,You'll Want To Keep For Yourself
+people_desc,Are Too Clever For Their Own Good
+people_desc,Completely Screwed Up Their One Job
+people_desc,Had A Worse Year Than You
+people_desc,Have No Idea What They Are Doing
+people_desc,Are Only Famous To People Who Read Nature
+people_desc,Are Having A Really Rough Day
+people_desc,Are Clearly Being Raised Right
+people_desc,Have Performed For Dictators
+people_desc,Will Make You Feel Like A Genius
+people_desc,Absolutely Nailed It
